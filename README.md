@@ -21,11 +21,11 @@ Server : 서버 시작, 메세지 읽기, 귓속말, 클라이언트에게 메�
 
 -**Client1**
 
-<img width="300" alt="3" src="https://user-images.githubusercontent.com/74293481/116786190-4ad40980-aad8-11eb-9f75-773f81409a50.PNG">
+<img width="300" alt="4" src="https://user-images.githubusercontent.com/74293481/116786192-4b6ca000-aad8-11eb-8036-dffc732d2273.PNG">
 
 -**Client2**
 
-<img width="300" alt="4" src="https://user-images.githubusercontent.com/74293481/116786192-4b6ca000-aad8-11eb-8036-dffc732d2273.PNG">
+<img width="300" alt="3" src="https://user-images.githubusercontent.com/74293481/116786190-4ad40980-aad8-11eb-9f75-773f81409a50.PNG">
 
 -**Client3**
 
